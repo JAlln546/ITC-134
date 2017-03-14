@@ -1,1 +1,0 @@
-"Hello there!\ How are you doing today?  I am well!  thanks!\ Today I would like to talk to you about this multi line file\ that I am hopefully creating solely in the command prompt!" 
